@@ -1,19 +1,14 @@
-# Professional README Generator
+# Note Taker
 
   # Table of Contents
 
   [Description](#description) <br>
-  [Installation Instructions](#install) <br>
   [Usage](#usage) <br>
   [Questions](#questions) <br>
   
   ## Description <a name="description"></a>
   
   This simple website lets users easily take and keep track of notes. All they have to do is fill out the note, and click save. <br> Creating this program was a nice reminder on how to use a basic json database, instead of an SQL table. 
-
-  ## Installation Instructions <a name="install"></a>
-
-  You download the files, either as a zip or through cloning it. You also need Node js to run the program, so make sure to install it!
   
   ## Usage <a name="usage"></a>
 
